@@ -15,8 +15,6 @@ Before you begin, make sure you have:
 
 - An NVIDIA GPU with CUDA support
 - CUDA Toolkit installed (e.g., via [NVIDIA's website](https://developer.nvidia.com/cuda-downloads))
-- A working C++ compiler (`g++`) and NVIDIA's compiler (`nvcc`)
-- Linux, macOS, or WSL (or native Windows with compatible toolchain)
 
 Check your `nvcc` installation:
 
