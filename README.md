@@ -8,6 +8,7 @@ I am learning CUDA and CUDA is fun!
 
 - `hello.cu` – Simple example demonstrating `printf` from the GPU.
 - `vectoradd.cu` – Basic vector addition using CUDA.
+- `matrixadd.cu` – Basic matrix addition using CUDA.
 
 ## 🔧 Prerequisites
 
